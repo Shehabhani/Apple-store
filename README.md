@@ -25,6 +25,4 @@ A modern, responsive web application that showcases Apple devices and their pric
 .
 ├── index.html         # Main HTML file
 ├── style.css          # Main CSS file
-├── images/            # Folder for images (product images, logos, etc.)
-├── fonts/             # Folder for custom fonts (e.g., Roboto)
 └── README.md          # Project documentation
